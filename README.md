@@ -26,6 +26,18 @@
 
 ---
 
+<div align="center">
+
+  <h2>💻 Tech Stack</h2>
+
+  <!-- Snake Animation -->
+  <a href="https://github.com/PriFlores/PriFlores/blob/main/github-contribution-grid-snake.svg" target="_blank" rel="noopener noreferrer">
+      <img src="https://github.com/PriFlores/PriFlores/raw/main/github-contribution-grid-snake.svg" alt="Snake gif" style="max-width: 100%;">
+  </a>
+
+</div>
+
+
 ### **🔥 Featured Projects**  
 
 #### **1. Smart Sportswear Suite**  
