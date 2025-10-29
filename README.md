@@ -24,7 +24,6 @@
 ![Figma](https://img.shields.io/badge/Figma-Designer-F24E1E?logo=figma)
 ![Docker](https://img.shields.io/badge/Docker-Container-2496ED?logo=docker)  
 
----
 
 <div align="center">
 
