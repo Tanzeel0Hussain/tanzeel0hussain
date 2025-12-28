@@ -1,7 +1,7 @@
 # 🚀 **Tanzeel Hussain**  
 **Sportswear Developer | Tech Innovator**  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect%20with%20me-blue?style=flat&logo=linkedin)](https://linkedin.com/in/your-profile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect%20with%20me-blue?style=flat&logo=linkedin)](https://linkedin.com/in/tanzeel-hussain0)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20my%20Work-orange?style=flat&logo=google-chrome)](https://your-portfolio.com)
 [![GitHub Followers](https://img.shields.io/github/followers/Tanzeel0Hussain?label=Follow%20Me&style=social)](https://github.com/Tanzeel0Hussain)
 
