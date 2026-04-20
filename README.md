@@ -69,7 +69,7 @@
 - 📧 **Email**: [tanzeelhussain38529@gmail.com](mailto:your.email@example.com)
   
   [![Twitter](https://img.shields.io/badge/Twitter-Follow_Me-1DA1F2?logo=twitter)](https://twitter.com/tanzeel0hussain)  
-  [![Instagram](https://img.shields.io/badge/Instagram-Follow_Me-E4405F?logo=instagram)](https://instagram.com/___tanzeel___hussain)  
+  [![Instagram](https://img.shields.io/badge/Instagram-Follow_Me-E4405F?logo=instagram)](https://instagram.com/tnz.root)  
 
 ---
 
