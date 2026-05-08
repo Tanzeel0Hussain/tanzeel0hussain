@@ -1,5 +1,5 @@
 # 🚀 **Tanzeel Hussain**  
-**Sportswear Developer | Tech Innovator**  
+**Ethical Hacker | Cybersecurity Student | Linux Enthusiast**  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect%20with%20me-blue?style=flat&logo=linkedin)](https://linkedin.com/in/tanzeel-hussain0)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20my%20Work-orange?style=flat&logo=google-chrome)](https://your-portfolio.com)
