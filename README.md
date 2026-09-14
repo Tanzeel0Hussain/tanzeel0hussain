@@ -50,6 +50,12 @@ My projects range from authentication-log analysis and SOC simulations to deskto
 - **Desktop software:** refining download workflows and browser integration in Fasto.
 - **Project quality:** clearer documentation, reliable behavior, and useful demonstrations.
 
+## Support My Work
+
+If you find my projects useful, you can support their development and documentation.
+
+<a href="https://buymeacoffee.com/tanzeelhussain"><img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=000000" alt="Buy Me a Coffee" /></a>
+
 ## Connect
 
 For project discussions, technical collaboration, and development opportunities:
