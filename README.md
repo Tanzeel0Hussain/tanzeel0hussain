@@ -1,133 +1,63 @@
-# 🚀 Tanzeel Hussain
-### Ethical Hacker | Cybersecurity Student | Linux Enthusiast
+<h1 align="center">Tanzeel Hussain</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00FFAA&center=true&vCenter=true&width=700&lines=Cybersecurity+Student;Ethical+Hacking+Learner;Linux+%26+Networking+Enthusiast;Future+Security+Researcher" alt="Typing SVG" />
+  <strong>Cybersecurity Developer · Linux &amp; Networking · Zero Trust IoT</strong>
 </p>
 
 <p align="center">
-  <a href="https://github.com/Tanzeel0Hussain">
-    <img src="https://img.shields.io/github/followers/Tanzeel0Hussain?label=Followers&style=social" />
-  </a>
-  <a href="https://linkedin.com/in/tanzeel-hussain0">
-    <img src="https://img.shields.io/badge/LinkedIn-Tanzeel_Hussain-blue?style=flat&logo=linkedin" />
-  </a>
-  <a href="mailto:tanzeelhussain38529@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail" />
-  </a>
-</p>
-
----
-
-# 👨‍💻 About Me
-
-🔹 BSCS Student at Iqra University  
-🔹 Passionate about Cybersecurity & Ethical Hacking  
-🔹 Interested in Linux, Networking & Penetration Testing  
-🔹 Learning Web Security, Digital Forensics & Malware Analysis  
-🔹 Exploring Bug Bounty & Security Research  
-🔹 Love building projects using Python & C++  
-
----
-
-# 🛠️ Skills & Tools
-
-## 💻 Programming Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-## 🔐 Cybersecurity Tools
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-Network_Scanning-blue?style=for-the-badge)
-![Metasploit](https://img.shields.io/badge/Metasploit-Framework-2596CD?style=for-the-badge)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
-
-## ⚙️ Development Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Tanzeel0Hussain&show_icons=true&theme=tokyonight" height="180em" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tanzeel0Hussain&layout=compact&theme=tokyonight" height="180em" />
+  Building practical security tools, desktop applications, and connected-device projects.
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tanzeel0Hussain&theme=tokyonight" />
+  <a href="https://tanzeel0hussain.github.io/Cybersecurity-Projects/">Security Portfolio</a>
+  &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/tanzeel-hussain0/">LinkedIn</a>
+  &nbsp;·&nbsp;
+  <a href="mailto:tanzeelhussain38529@gmail.com">Email</a>
 </p>
 
 ---
 
-# 🐍 Contribution Snake
+## About
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/PriFlores/PriFlores/main/github-contribution-grid-snake.svg" alt="snake gif" />
-</p>
+I build security tools, Linux applications, and IoT prototypes using Python, Rust, C++, and Flutter. My work brings together defensive security, network analysis, and software development.
 
----
+My projects range from authentication-log analysis and SOC simulations to desktop download management and ESP32 communication systems. I focus on practical functionality, clear documentation, and understanding how systems behave.
 
-# 🚀 Featured Projects
+## Selected Projects
 
-## 🔹 GPA Calculator Website
-- Simple GPA calculator for university students
-- Built using HTML, CSS & JavaScript
-- User-friendly and responsive design
+| Project | What it does | Explore |
+|---|---|---|
+| **Cybersecurity Projects** | A collection of 16 security and developer tools covering log analysis, network visibility, password auditing, SOC concepts, and browser demos. | [Repository](https://github.com/Tanzeel0Hussain/Cybersecurity-Projects) · [Portfolio](https://tanzeel0hussain.github.io/Cybersecurity-Projects/) |
+| **Fasto Download Manager** | Desktop download manager for Linux and Windows, with multi-connection transfers, pause/resume, and queue management. | [Project](https://github.com/Tanzeel0Hussain/Fasto) · [Downloads](https://github.com/Tanzeel0Hussain/Fasto/releases) |
+| **ESP-NOW Zero Trust IoT** | ESP32 sensor-network project exploring authenticated communication, encryption, and replay protection through Zero Trust principles. | [Repository](https://github.com/Tanzeel0Hussain/Secure-IoT-ESP-NOW-ZeroTrust) |
+| **GuardianLink** | Android device-management project with a Python API, pairing sessions, device authentication, and a web dashboard for authorized devices. | [Repository](https://github.com/Tanzeel0Hussain/GuardianLink) |
 
-## 🔹 File System Simulator
-- Operating System based project
-- Simulates file handling and directory management
-- Built in C++
+## Technical Toolkit
 
-## 🔹 Polling System
-- Voting and polling management system
-- Uses programming logic & data structures
-- Beginner-friendly interface
+| Area | Technologies & Practice |
+|---|---|
+| **Languages** | Python, Rust, C++, JavaScript, Dart, SQL |
+| **Application Development** | Flutter, FastAPI, Flask, HTML, CSS, SQLite |
+| **Security & Networking** | Wireshark, Nmap, Scapy, TCP/IP, packet analysis, authentication-log analysis |
+| **Systems & Hardware** | Linux, ESP32, ESP-NOW, sensor integration |
+| **Development Workflow** | Git, GitHub, VS Code, command-line tooling |
 
-## 🔹 Cybersecurity Labs
-- Practice labs related to Linux, Networking & Security
-- Includes scanning, enumeration & basic penetration testing practice
+## Current Focus
 
----
+- **Defensive security:** improving log analysis, security reporting, and interactive SOC demonstrations.
+- **IoT security:** developing Zero Trust controls and Raspberry Pi integration for ESP-NOW systems.
+- **Desktop software:** refining download workflows and browser integration in Fasto.
+- **Project quality:** clearer documentation, reliable behavior, and useful demonstrations.
 
-# 🎯 Current Goals
+## Connect
 
-✅ Learn Advanced Penetration Testing  
-✅ Master Linux & Networking  
-✅ Build Real Cybersecurity Projects  
-✅ Contribute to Open Source  
-✅ Start Bug Bounty Hunting  
+For project discussions, technical collaboration, and development opportunities:
 
----
-
-# 📫 Connect With Me
-
-<p align="center">
-  <a href="mailto:tanzeelhussain38529@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://instagram.com/tnz.root">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="https://twitter.com/tanzeel0hussain">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
-</p>
+[LinkedIn](https://www.linkedin.com/in/tanzeel-hussain0/) · [Email](mailto:tanzeelhussain38529@gmail.com) · [Browse repositories](https://github.com/Tanzeel0Hussain?tab=repositories)
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Tanzeel0Hussain&label=Profile+Views&color=0e75b6&style=flat" />
-</p>
-
-<p align="center">
-  ⭐ "Securing the digital world, one step at a time." ⭐
+  <sub>Security-minded development. Practical tools. Clear documentation.</sub>
 </p>
