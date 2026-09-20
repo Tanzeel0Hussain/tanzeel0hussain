@@ -1,79 +1,97 @@
-<h1 align="center">Tanzeel Hussain</h1>
-
 <p align="center">
-  <strong>Cybersecurity Developer</strong><br>
-  Security tooling &nbsp; / &nbsp; Linux systems &nbsp; / &nbsp; Network intelligence
+  <img src="./assets/security-header.svg" width="100%" alt="Tanzeel Hussain — Cybersecurity Developer. Defensive security, network intelligence and Linux." />
 </p>
 
 <p align="center">
-  Building software to understand systems, investigate threats, and strengthen security.
+  <a href="https://www.linkedin.com/in/tanzeel-hussain0/"><img src="https://img.shields.io/badge/LinkedIn-0B1726?style=for-the-badge&amp;logo=linkedin&amp;logoColor=38E8CF" alt="LinkedIn" /></a>
+  <a href="https://x.com/tanzeel0hussain"><img src="https://img.shields.io/badge/Connect_on_X-0B1726?style=for-the-badge&amp;logo=x&amp;logoColor=38E8CF" alt="Connect on X" /></a>
+  <a href="mailto:tanzeelhussain38529@gmail.com"><img src="https://img.shields.io/badge/Let's_Talk-0B1726?style=for-the-badge&amp;logo=gmail&amp;logoColor=38E8CF" alt="Email Tanzeel" /></a>
 </p>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/tanzeel-hussain0/">LinkedIn</a>
-  &nbsp;&nbsp;·&nbsp;&nbsp;
-  <a href="https://x.com/tanzeel0hussain">X</a>
-  &nbsp;&nbsp;·&nbsp;&nbsp;
-  <a href="mailto:tanzeelhussain38529@gmail.com">Email</a>
+<h2>01 / SECURITY MINDSET</h2>
+
+I build tools that make systems easier to inspect, threats easier to investigate, and security decisions easier to explain.
+
+My focus is **defensive security, network intelligence, and systems development**—from packet and log analysis to application security and authenticated device communication.
+
+> **Make trust explicit. Keep the evidence visible. Engineer for failure.**
+
+<h2>02 / OPERATIONAL FOCUS</h2>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+<h3>🛡️ Defensive Engineering</h3>
+Authentication · Access boundaries<br>
+Input validation · Security automation
+</td>
+<td width="50%" valign="top">
+<h3>📡 Network Intelligence</h3>
+Packet inspection · Traffic analysis<br>
+Log investigation · Threat reporting
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<h3>⚙️ Systems Development</h3>
+Linux tooling · Desktop software<br>
+Resource management · Failure recovery
+</td>
+<td width="50%" valign="top">
+<h3>🔐 Connected-Device Security</h3>
+Message authentication · Encryption<br>
+Replay protection · Device communication
+</td>
+</tr>
+</table>
+
+<h2>03 / TOOLKIT</h2>
+
+<p><sub>SECURITY &amp; SYSTEMS</sub></p>
+<p>
+<img src="https://cdn.simpleicons.org/wireshark/1679A7" width="48" height="48" alt="Wireshark" title="Wireshark" /> &nbsp;
+<img src="https://skillicons.dev/icons?i=linux&amp;theme=dark" width="48" height="48" alt="Linux" title="Linux" /> &nbsp;
+<img src="https://skillicons.dev/icons?i=ubuntu&amp;theme=dark" width="48" height="48" alt="Ubuntu" title="Ubuntu" /> &nbsp;
+<img src="https://skillicons.dev/icons?i=bash&amp;theme=dark" width="48" height="48" alt="Bash" title="Bash" /> &nbsp;
+<img src="https://skillicons.dev/icons?i=git&amp;theme=dark" width="48" height="48" alt="Git" title="Git" /> &nbsp;
+<img src="https://skillicons.dev/icons?i=githubactions&amp;theme=dark" width="48" height="48" alt="GitHub Actions" title="GitHub Actions" />
 </p>
+
+<p><sub>LANGUAGES</sub></p>
+<p>
+<img src="https://skillicons.dev/icons?i=py&amp;theme=dark" width="48" height="48" alt="Python" title="Python" /> &nbsp;
+<img src="https://skillicons.dev/icons?i=rust&amp;theme=dark" width="48" height="48" alt="Rust" title="Rust" /> &nbsp;
+<img src="https://skillicons.dev/icons?i=cpp&amp;theme=dark" width="48" height="48" alt="C++" title="C++" /> &nbsp;
+<img src="https://skillicons.dev/icons?i=js&amp;theme=dark" width="48" height="48" alt="JavaScript" title="JavaScript" /> &nbsp;
+<img src="https://skillicons.dev/icons?i=dart&amp;theme=dark" width="48" height="48" alt="Dart" title="Dart" />
+</p>
+
+<p><sub>APPLICATIONS &amp; DATA</sub></p>
+<p>
+<img src="https://skillicons.dev/icons?i=flutter&amp;theme=dark" width="48" height="48" alt="Flutter" title="Flutter" /> &nbsp;
+<img src="https://skillicons.dev/icons?i=fastapi&amp;theme=dark" width="48" height="48" alt="FastAPI" title="FastAPI" /> &nbsp;
+<img src="https://skillicons.dev/icons?i=flask&amp;theme=dark" width="48" height="48" alt="Flask" title="Flask" /> &nbsp;
+<img src="https://skillicons.dev/icons?i=sqlite&amp;theme=dark" width="48" height="48" alt="SQLite" title="SQLite" /> &nbsp;
+<img src="https://skillicons.dev/icons?i=html&amp;theme=dark" width="48" height="48" alt="HTML" title="HTML" /> &nbsp;
+<img src="https://skillicons.dev/icons?i=css&amp;theme=dark" width="48" height="48" alt="CSS" title="CSS" />
+</p>
+
+<h2>04 / ENGINEERING STANDARD</h2>
+
+**Explicit boundaries.** Validate what enters a system and define who can act.<br>
+**Readable internals.** Separate responsibilities and document the decisions.<br>
+**Predictable failure.** Handle errors, release resources, and support recovery.<br>
+**Evidence over claims.** Test behavior and distinguish results from assumptions.
 
 ---
 
-## About
+<p align="center">
+<strong>SECURITY TOOLING &nbsp; / &nbsp; TECHNICAL COLLABORATION &nbsp; / &nbsp; SOFTWARE DEVELOPMENT</strong><br><br>
+<a href="mailto:tanzeelhussain38529@gmail.com">Start a conversation ↗</a>
+</p>
 
-I develop security tools and systems software, with a focus on defensive security, network analysis, and Linux. My work spans packet inspection, log analysis, automation, desktop applications, and secure communication for connected devices.
-
-I care about how software behaves beyond the happy path: what it trusts, how it handles failure, and whether its results can be explained and verified.
-
-## Areas of Focus
-
-| Area | Focus |
-| :--- | :--- |
-| **Security Engineering** | Authentication, access control, input validation, and secure application design |
-| **Network Intelligence** | Packet analysis, traffic visibility, log investigation, and security reporting |
-| **Systems Development** | Linux tooling, automation, desktop applications, and reliable data handling |
-| **Connected Devices** | ESP32 communication, message authentication, encryption, and replay protection |
-
-## Technical Toolkit
-
-**Languages**  
-Python · Rust · C++ · JavaScript · Dart · SQL
-
-**Security & Networking**  
-Wireshark · TShark · Scapy · Nmap · TCP/IP
-
-**Application Development**  
-Flutter · FastAPI · Flask · SQLite · HTML · CSS
-
-**Systems & Workflow**  
-Linux · Git · GitHub Actions · ESP32 · ESP-NOW
-
-## Engineering Approach
-
-- **Make trust explicit.** Validate inputs and define access boundaries.
-- **Build for failure.** Handle errors, clean up resources, and make recovery predictable.
-- **Keep code readable.** Separate responsibilities and document decisions.
-- **Verify the claims.** Use tests and distinguish measured results from assumptions.
-
-## Connect
-
-For technical collaboration, security tooling, and software development opportunities:
-
-**[Get in touch](mailto:tanzeelhussain38529@gmail.com)** · [LinkedIn](https://www.linkedin.com/in/tanzeel-hussain0/) · [X](https://x.com/tanzeel0hussain)
-
-<details>
-<summary>Support my work</summary>
-
-<br>
-
-If you find my work useful, you can support its continued development.
-
+<p align="center">
 <a href="https://buymeacoffee.com/tanzeelhussain"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me a Coffee" width="150" /></a>
-
-</details>
-
----
-
-<p align="center">
-  <sub>Understand the system. Question the assumptions. Build with care.</sub>
 </p>
+
+<p align="center"><sub>Built with intent. Backed by understanding.</sub></p>
