@@ -1,18 +1,19 @@
 <h1 align="center">Tanzeel Hussain</h1>
 
 <p align="center">
-  <strong>Cybersecurity Developer · Linux &amp; Networking · Zero Trust IoT</strong>
+  <strong>Cybersecurity Developer</strong><br>
+  Security tooling &nbsp; / &nbsp; Linux systems &nbsp; / &nbsp; Network intelligence
 </p>
 
 <p align="center">
-  Building practical security tools, desktop applications, and connected-device projects.
+  Building software to understand systems, investigate threats, and strengthen security.
 </p>
 
 <p align="center">
-  <a href="https://tanzeel0hussain.github.io/Cybersecurity-Projects/">Security Portfolio</a>
-  &nbsp;·&nbsp;
   <a href="https://www.linkedin.com/in/tanzeel-hussain0/">LinkedIn</a>
-  &nbsp;·&nbsp;
+  &nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="https://x.com/tanzeel0hussain">X</a>
+  &nbsp;&nbsp;·&nbsp;&nbsp;
   <a href="mailto:tanzeelhussain38529@gmail.com">Email</a>
 </p>
 
@@ -20,50 +21,59 @@
 
 ## About
 
-I build security tools, Linux applications, and IoT prototypes using Python, Rust, C++, and Flutter. My work brings together defensive security, network analysis, and software development.
+I develop security tools and systems software, with a focus on defensive security, network analysis, and Linux. My work spans packet inspection, log analysis, automation, desktop applications, and secure communication for connected devices.
 
-My projects range from authentication-log analysis and SOC simulations to desktop download management and ESP32 communication systems. I focus on practical functionality, clear documentation, and understanding how systems behave.
+I care about how software behaves beyond the happy path: what it trusts, how it handles failure, and whether its results can be explained and verified.
 
-## Selected Projects
+## Areas of Focus
 
-| Project | What it does | Explore |
-|---|---|---|
-| **Cybersecurity Projects** | A collection of 16 security and developer tools covering log analysis, network visibility, password auditing, SOC concepts, and browser demos. | [Repository](https://github.com/Tanzeel0Hussain/Cybersecurity-Projects) · [Portfolio](https://tanzeel0hussain.github.io/Cybersecurity-Projects/) |
-| **Fasto Download Manager** | Desktop download manager for Linux and Windows, with multi-connection transfers, pause/resume, and queue management. | [Project](https://github.com/Tanzeel0Hussain/Fasto) · [Downloads](https://github.com/Tanzeel0Hussain/Fasto/releases) |
-| **ESP-NOW Zero Trust IoT** | ESP32 sensor-network project exploring authenticated communication, encryption, and replay protection through Zero Trust principles. | [Repository](https://github.com/Tanzeel0Hussain/Secure-IoT-ESP-NOW-ZeroTrust) |
-| **GuardianLink** | Android device-management project with a Python API, pairing sessions, device authentication, and a web dashboard for authorized devices. | [Repository](https://github.com/Tanzeel0Hussain/GuardianLink) |
+| Area | Focus |
+| :--- | :--- |
+| **Security Engineering** | Authentication, access control, input validation, and secure application design |
+| **Network Intelligence** | Packet analysis, traffic visibility, log investigation, and security reporting |
+| **Systems Development** | Linux tooling, automation, desktop applications, and reliable data handling |
+| **Connected Devices** | ESP32 communication, message authentication, encryption, and replay protection |
 
 ## Technical Toolkit
 
-| Area | Technologies & Practice |
-|---|---|
-| **Languages** | Python, Rust, C++, JavaScript, Dart, SQL |
-| **Application Development** | Flutter, FastAPI, Flask, HTML, CSS, SQLite |
-| **Security & Networking** | Wireshark, Nmap, Scapy, TCP/IP, packet analysis, authentication-log analysis |
-| **Systems & Hardware** | Linux, ESP32, ESP-NOW, sensor integration |
-| **Development Workflow** | Git, GitHub, VS Code, command-line tooling |
+**Languages**  
+Python · Rust · C++ · JavaScript · Dart · SQL
 
-## Current Focus
+**Security & Networking**  
+Wireshark · TShark · Scapy · Nmap · TCP/IP
 
-- **Defensive security:** improving log analysis, security reporting, and interactive SOC demonstrations.
-- **IoT security:** developing Zero Trust controls and Raspberry Pi integration for ESP-NOW systems.
-- **Desktop software:** refining download workflows and browser integration in Fasto.
-- **Project quality:** clearer documentation, reliable behavior, and useful demonstrations.
+**Application Development**  
+Flutter · FastAPI · Flask · SQLite · HTML · CSS
 
-## Support My Work
+**Systems & Workflow**  
+Linux · Git · GitHub Actions · ESP32 · ESP-NOW
 
-If you find my projects useful, you can support their development and documentation.
+## Engineering Approach
 
-<a href="https://buymeacoffee.com/tanzeelhussain"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me a Coffee" width="150" /></a>
+- **Make trust explicit.** Validate inputs and define access boundaries.
+- **Build for failure.** Handle errors, clean up resources, and make recovery predictable.
+- **Keep code readable.** Separate responsibilities and document decisions.
+- **Verify the claims.** Use tests and distinguish measured results from assumptions.
 
 ## Connect
 
-For project discussions, technical collaboration, and development opportunities:
+For technical collaboration, security tooling, and software development opportunities:
 
-[LinkedIn](https://www.linkedin.com/in/tanzeel-hussain0/) · [Email](mailto:tanzeelhussain38529@gmail.com) · [Browse repositories](https://github.com/Tanzeel0Hussain?tab=repositories)
+**[Get in touch](mailto:tanzeelhussain38529@gmail.com)** · [LinkedIn](https://www.linkedin.com/in/tanzeel-hussain0/) · [X](https://x.com/tanzeel0hussain)
+
+<details>
+<summary>Support my work</summary>
+
+<br>
+
+If you find my work useful, you can support its continued development.
+
+<a href="https://buymeacoffee.com/tanzeelhussain"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me a Coffee" width="150" /></a>
+
+</details>
 
 ---
 
 <p align="center">
-  <sub>Security-minded development. Practical tools. Clear documentation.</sub>
+  <sub>Understand the system. Question the assumptions. Build with care.</sub>
 </p>
